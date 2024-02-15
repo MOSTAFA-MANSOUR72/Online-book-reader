@@ -1,0 +1,3 @@
+D:/Work Space/projects/OOP PROJECTS/OnlineBookReader/cmake-build-debug/CMakeFiles/OnlineBookReader.dir
+D:/Work Space/projects/OOP PROJECTS/OnlineBookReader/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Work Space/projects/OOP PROJECTS/OnlineBookReader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
