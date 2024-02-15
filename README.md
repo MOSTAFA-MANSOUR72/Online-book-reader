@@ -22,7 +22,7 @@ to delete a seasion.
 ### which leads us to take about the way of storing data 
 ## file based system
 as its a quite simple project with console , i used the iofsream library in c++ to use file based system to store my data instead of using database
-### the arrange ment of data of every file is described inside the code in the ***loadData*** functions for every file or entity
+ the arrangement of data of every file is described inside the code in the ***loadData*** functions for every file or entity
 ## here are some samples of the user exeprience using my project
 - view profile
   
