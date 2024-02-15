@@ -1,6 +1,7 @@
 # Online-book-reader
 a console app to read ebooks by user and managing them by admins
-## i designed the app to be used by user or admin
+# Admin and user can use the system for diferent reasons
+
 ![image](https://github.com/MOSTAFA-MANSOUR72/Online-book-reader/assets/149438807/2fa52675-2f59-4116-9bb6-3ae3659a7f08)
 ### admin 
 admin can login if he has an account or sign up and user has the same options as well , then he have some options to choose from to do
