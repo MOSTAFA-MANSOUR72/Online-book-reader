@@ -1,5 +1,6 @@
 # Online-book-reader
-a console app to read ebooks by user and managing them by admins
+Console Online ebooks reader to read and manage ebooks
+
 ### Admin and user can use the system for diferent reasons
 
 ![image](https://github.com/MOSTAFA-MANSOUR72/Online-book-reader/assets/149438807/2fa52675-2f59-4116-9bb6-3ae3659a7f08)
