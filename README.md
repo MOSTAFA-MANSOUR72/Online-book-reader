@@ -22,12 +22,18 @@ as its a quite simple project with console , i used the iofsream library in c++ 
 ###the arrange ment of data of every file is described inside the code in the ###loadData functions for every file or entity
 ## here are some samples of the user exeprience using my project
 - view profile
+  
 ![image](https://github.com/MOSTAFA-MANSOUR72/Online-book-reader/assets/149438807/2eb22c3f-fcba-4332-9e49-91012beb25ee)
 
 - listing current books
+  
 ![image](https://github.com/MOSTAFA-MANSOUR72/Online-book-reader/assets/149438807/8f2d185a-cf46-4702-91ec-66614eecd72f)
+
 - view my seasions
+  
   ![image](https://github.com/MOSTAFA-MANSOUR72/Online-book-reader/assets/149438807/aaa04f50-88e7-437f-b1bc-e261490dcc43)
+  
 - Opening a seasion and starting to read a book
-  ![Uploading image.png…]()
+  
+![image](https://github.com/MOSTAFA-MANSOUR72/Online-book-reader/assets/149438807/a2484814-56b1-49d6-b551-bdf814714b3a)
 
