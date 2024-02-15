@@ -3,10 +3,12 @@ a console app to read ebooks by user and managing them by admins
 ### Admin and user can use the system for diferent reasons
 
 ![image](https://github.com/MOSTAFA-MANSOUR72/Online-book-reader/assets/149438807/2fa52675-2f59-4116-9bb6-3ae3659a7f08)
+
 ### admin 
 admin can login if he has an account or sign up and user has the same options as well , then he have some options to choose from to do
  to view profile or editing it.
  to add a new book or to delete an existing on.
+ 
 ![image](https://github.com/MOSTAFA-MANSOUR72/Online-book-reader/assets/149438807/a9aaec9c-3ea7-4b56-b442-bba5641c1c80)
 
 ## User 
@@ -20,7 +22,7 @@ to delete a seasion.
 ### which leads us to take about the way of storing data 
 ## file based system
 as its a quite simple project with console , i used the iofsream library in c++ to use file based system to store my data instead of using database
-###the arrange ment of data of every file is described inside the code in the ***loadData*** functions for every file or entity
+### the arrange ment of data of every file is described inside the code in the ***loadData*** functions for every file or entity
 ## here are some samples of the user exeprience using my project
 - view profile
   
