@@ -2,7 +2,6 @@
 A Console Online ebooks reader to read and manage ebooks
 
 # Features:
--
 - System can serve the user to read and choose books to read on system
 - System is managed by admins who add and delete books from system
   
