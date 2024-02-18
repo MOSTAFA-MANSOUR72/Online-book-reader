@@ -54,7 +54,7 @@ user has much more choices than admin ,as he the main user of the program :
   - vector of string to store books pages
   - map of string and book class to get the book info by name or by id
   - map of string and boolean to add the deleted books or seasions to the black list
-- tried to design my classes with abstractions to make it clear and easy to know classes functionalities
-- usage of intities is managed by manager classes like sessionManager, UserManager and adminManager
+- tried to design my classes with abstractions to make it clear and easy to know classes functionalities ,So every class is cosisted of an interface that shows the funtionaities and the implementaion out of that body/interface.
+- usage of intities is managed by manager classes like sessionManager, UserManager and adminManager.
 - data are not static because of using files and iofstream to store it and retrieve it again when it is needed.
   
