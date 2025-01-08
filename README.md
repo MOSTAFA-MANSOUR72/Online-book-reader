@@ -25,13 +25,13 @@ user has much more choices than admin ,as he the main user of the program :
 -to choose a new book from the system to read and then he make a new seasion for reading it.
 -to delete a seasion.
 
-## how data is stored 
+## How data is stored 
 ***file based system***
  as its a quite simple project with console , i used the iofsream library in c++ to use filebased system to store my data instead of using database
  the arrangement of data of every file is described inside the code in the ***loadData*** functions for every file or entity
  - data is loaded and uploaded in system by two functions exist in every manager class ( loadData() - UploadData() ) .
    
-## Some Interfaces shoots
+## Some Interfaces shots
 
   - Main page
 
